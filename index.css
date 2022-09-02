@@ -1,0 +1,23 @@
+*{margin: 0;  
+    padding: 0;}
+body
+{
+ background-color: #111111;
+} 
+header 
+{
+    background-color: black;
+    justify-content: flex-end;
+    display: flex;
+    margin: right 0rem; ;
+
+}
+.group
+{
+    justify-content: flex-end;
+    display: flex;
+    margin-right:  50vw;
+    transform: translate(50%, 50%);
+    width: 30%;
+}
+
