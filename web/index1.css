@@ -188,7 +188,7 @@ span {
 .conl {
     position : absolute;
     transform: translate(calc(-100% - 37px));
-    bottom   : 40px;
+    bottom   : 35px;
 
 }
 
@@ -197,7 +197,7 @@ span {
     animation: magic 2s ease-in-out;
 }
 
-.seoicon2 {
+.backendicon {
     position : absolute;
     left     : 50%;
     top      : 50%;
@@ -209,7 +209,7 @@ span {
     animation: magic 2s ease-in-out;
 }
 
-.seoicon3 {
+.FrontEndIcon {
     position : absolute;
     left     : 50%;
     top      : 50%;
@@ -228,7 +228,7 @@ span {
     animation: magic 2s ease-in-out;
 }
 
-.seoicon4 {
+.webicon3 {
     position : absolute;
     left     : 50%;
     top      : 50%;
@@ -282,31 +282,31 @@ h3 {
 
 .plus2 {
 
-    margin-left: 223px;
+    margin-left: 202px;
     margin-top : 77px;
 }
 
 .plus3 {
 
-    margin-left: 60px;
+    margin-left: 150px;
     margin-top : 79px;
 }
 
 .plus4 {
 
-    margin-left: 192px;
+    margin-left: 132px;
     margin-top : 79px;
 }
 
 .plus5 {
 
-    margin-left: 233px;
+    margin-left: 255px;
     margin-top : 79px;
 }
 
 .plus6 {
 
-    margin-left: 176px;
+    margin-left: 284px;
     margin-top : 79px;
 }
 
