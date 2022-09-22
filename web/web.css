@@ -1,0 +1,195 @@
+.filling1 {
+    display        : flex;
+    justify-content: center;
+    flex-direction : column;
+}
+
+.line {
+    margin-top  : 34px;
+    margin-left : auto;
+    margin-right: auto;
+}
+
+.filling2 {
+    width       : 685px;
+    margin-left : auto;
+    margin-right: auto;
+    position    : relative;
+}
+
+.para {
+    margin-top: 13px;
+}
+
+p.basicfont {
+    font-family: 'Poppins';
+    font-style : normal;
+    font-weight: 300;
+    font-size  : 15px;
+    line-height: 138.5%;
+    color      : #FFFFFF;
+}
+
+.getintouchleft {
+    margin-top: 35px;
+}
+
+.getintouchright {
+    margin-top: 35px;
+    float     : right;
+}
+
+.right {
+    text-align: right;
+}
+
+.otstup {
+    margin-right: 34px;
+}
+
+.conl {
+    position : absolute;
+    transform: translate(calc(-100% - 37px));
+    bottom   : 35px;
+}
+
+.ring2,
+.ring3,
+.ring4 {
+    position: relative;
+}
+
+.backendicon {
+    position : absolute;
+    left     : 50%;
+    top      : 50%;
+    transform: translate(-50%, -50%);
+}
+
+.FrontEndIcon {
+    position : absolute;
+    left     : 50%;
+    top      : 50%;
+    transform: translate(-50%, -50%);
+}
+
+.conr {
+    position : absolute;
+    transform: translate(calc(360% + 37px));
+    bottom   : 40px;
+}
+
+
+.webicon3 {
+    position : absolute;
+    left     : 50%;
+    top      : 50%;
+    transform: translate(-50%, -50%);
+}
+
+h3 {
+    margin-top: 100px;
+}
+
+.filling3,
+.filling4 {
+    margin-left : auto;
+    margin-right: auto;
+    position    : relative;
+    width       : 1205px;
+}
+
+.longline {
+    margin-top  : 60px;
+    margin-left : auto;
+    margin-right: auto;
+    display     : block;
+}
+
+.block {
+    margin-left: 32px;
+    display    : inline-block;
+}
+
+.block1 {
+    margin-top: 39px;
+}
+
+.block2 {
+    margin-top: 82px;
+}
+
+.block3 {
+    margin-left: 78px;
+}
+
+.plus1 {
+    margin-left: 147px;
+    margin-top : 39px;
+}
+
+.plus2 {
+    margin-left: 202px;
+    margin-top : 77px;
+}
+
+.plus3 {
+    margin-left: 150px;
+    margin-top : 79px;
+}
+
+.plus4 {
+    margin-left: 132px;
+    margin-top : 79px;
+}
+
+.plus5 {
+    margin-left: 255px;
+    margin-top : 79px;
+}
+
+.plus6 {
+    margin-left: 284px;
+    margin-top : 79px;
+}
+
+.longlinedown {
+    margin-top  : 45px;
+    margin-left : auto;
+    margin-right: auto;
+    display     : block;
+}
+
+.priziv {
+    width          : 1080px;
+    display        : flex;
+    justify-content: space-between;
+}
+
+.email {
+    display   : inline-block;
+    margin-top: 51px;
+}
+
+.contactus {
+    margin-left: 27px;
+}
+
+.getbonus {
+    margin-top: 155px;
+    width     : 501px;
+    display   : inline-block;
+}
+
+.leon {
+    margin-top: 100px;
+}
+
+.top {
+    font-family: 'Poppins';
+    font-style : normal;
+    font-weight: 800;
+    font-size  : 15px;
+    line-height: 138.5%;
+    color      : #FFFFFF;
+}
