@@ -1,0 +1,79 @@
+/* ######### Подвал ######### */
+
+footer {
+  background-color: black;
+}
+
+.end {
+  height    : 342px;
+  margin-top: 84px;
+}
+
+.container {
+  display     : flex;
+  margin-left : auto;
+  margin-right: auto;
+  width       : 1205px;
+}
+
+.footer-li {
+  display    : flex;
+  text-align : none;
+  line-height: 44px;
+}
+
+.colomn1 {
+  position     : relative;
+  padding-right: 180px;
+  margin-top   : 94px;
+}
+
+.colomn3 {
+  position     : relative;
+  padding-right: 140px;
+  margin-top   : 94px;
+}
+
+.colomn2 {
+  display     : flex;
+  align-items : flex-end;
+  margin-top  : 94px;
+  margin-right: 94px;
+}
+
+.social-media {
+  margin-top: 30px;
+}
+
+.icons {
+  display: flex;
+}
+
+.otstups {
+  margin-right: 18px;
+}
+
+.meta {
+  margin-top     : 33px;
+  display        : flex;
+  justify-content: flex-end;
+}
+
+.midle {
+  margin-top : 24px;
+  font-family: 'Poppins';
+  font-style : normal;
+  font-weight: 300;
+  font-size  : 15px;
+  line-height: 138.5%;
+  color      : #DBDBDB;
+}
+
+.top {
+  font-family: 'Poppins';
+  font-style : normal;
+  font-weight: 800;
+  font-size  : 15px;
+  line-height: 138.5%;
+  color      : #FFFFFF;
+}

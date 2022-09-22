@@ -50,18 +50,17 @@ footer {
   display    : flex;
   text-align : none;
   line-height: 44px;
-  
 }
 
 .colomn1 {
   position     : relative;
-  padding-right: 162px;
+  padding-right: 180px;
   margin-top   : 94px;
 }
 
 .colomn3 {
   position     : relative;
-  padding-right: 142px;
+  padding-right: 140px;
   margin-top   : 94px;
 }
 
@@ -129,8 +128,7 @@ span {
   color: #FE3B00;
 }
 
-
-/* Общие классы */
+/* ######### Общие классы ######### */
 .telo {
   margin-top: 129px;
 }
@@ -147,6 +145,7 @@ span {
 }
 
 .zfonts {
+  margin-top    : 100px;
   font-family   : 'Poppins';
   font-style    : normal;
   font-weight   : 700;
