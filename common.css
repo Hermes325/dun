@@ -26,78 +26,8 @@ header>img {
   height: 58px;
 }
 
-/* Подвал */
 
-footer {
-  background-color: black;
-}
-
-.end {
-  height    : 342px;
-  margin-top: 84px;
-}
-
-.container {
-  display     : flex;
-  margin-left : auto;
-  margin-right: auto;
-  width       : 1205px;
-}
-
-.footer-li {
-  display    : flex;
-  text-align : none;
-  line-height: 44px;
-}
-
-.colomn1 {
-  position     : relative;
-  padding-right: 180px;
-  margin-top   : 94px;
-}
-
-.colomn3 {
-  position     : relative;
-  padding-right: 140px;
-  margin-top   : 94px;
-}
-
-.colomn2 {
-  display     : flex;
-  align-items : flex-end;
-  margin-top  : 94px;
-  margin-right: 94px;
-}
-
-.social-media {
-  margin-top: 30px;
-}
-
-.icons {
-  display: flex;
-}
-
-.otstups {
-  margin-right: 18px;
-}
-
-.meta {
-  margin-top     : 33px;
-  display        : flex;
-  justify-content: flex-end;
-}
-
-.midle {
-  margin-top : 24px;
-  font-family: 'Poppins';
-  font-style : normal;
-  font-weight: 300;
-  font-size  : 15px;
-  line-height: 138.5%;
-  color      : #DBDBDB;
-}
-
-/* Начальные значения тегов */
+/* ######### Начальные значения тегов ######### */
 h1 {
   margin-top    : 28px;
   font-family   : 'Poppins';
@@ -126,8 +56,7 @@ span {
   color: #FE3B00;
 }
 
-
-/* Общие классы */
+/* ######### Общие классы ######### */
 .telo {
   margin-top: 129px;
 }
@@ -144,6 +73,7 @@ span {
 }
 
 .zfonts {
+  margin-top    : 100px;
   font-family   : 'Poppins';
   font-style    : normal;
   font-weight   : 700;
@@ -171,8 +101,81 @@ span {
   transform: translate(-50%, -50%);
 }
 
+p.basicfont {
+  font-family: 'Poppins';
+  font-style : normal;
+  font-weight: 300;
+  font-size  : 15px;
+  line-height: 138.5%;
+  color      : #FFFFFF;
+}
 
-/* Анимации */
+.getintouchleft {
+  margin-top: 35px;
+}
+
+.getintouchright {
+  margin-top: 35px;
+  float     : right;
+}
+
+.para {
+  margin-top: 13px;
+}
+
+.line {
+  margin-top   : 34px;
+  margin-inline: auto;
+}
+
+.longlinedown {
+  margin-top  : 45px;
+  margin-left : auto;
+  margin-right: auto;
+  display     : block;
+}
+
+.longline {
+  margin-top  : 60px;
+  margin-left : auto;
+  margin-right: auto;
+  display     : block;
+}
+
+.right {
+  text-align: right;
+}
+
+.otstup {
+  margin-right: 34px;
+}
+
+.priziv {
+  width          : 1080px;
+  display        : flex;
+  justify-content: space-between;
+}
+
+.email {
+  display   : inline-block;
+  margin-top: 51px;
+}
+
+.contactus {
+  margin-left: 27px;
+}
+
+.getbonus {
+  margin-top: 155px;
+  width     : 501px;
+  display   : inline-block;
+}
+
+.leon {
+  margin-top: 100px;
+}
+
+/* ######### Анимации ######### */
 .animation-appear {
   animation: magic 2s ease-in-out;
 }
