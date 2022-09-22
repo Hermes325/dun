@@ -3,6 +3,8 @@
 * {
   margin : 0;
   padding: 0;
+  text-decoration: none;
+  
 }
 
 body {
@@ -48,17 +50,18 @@ footer {
   display    : flex;
   text-align : none;
   line-height: 44px;
+  
 }
 
 .colomn1 {
   position     : relative;
-  padding-right: 180px;
+  padding-right: 162px;
   margin-top   : 94px;
 }
 
 .colomn3 {
   position     : relative;
-  padding-right: 140px;
+  padding-right: 142px;
   margin-top   : 94px;
 }
 
