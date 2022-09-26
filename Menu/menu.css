@@ -1,0 +1,37 @@
+.leon1 {
+    margin-top: 167px;
+    padding-left: 291px;
+    
+}
+
+.menufonts {
+    margin-top : 167px;
+    font-family: 'Poppins';
+    font-style : normal;
+    font-weight: 800;
+    font-size  : 48px;
+    line-height: 138.5%;
+    /* or 66px */
+
+    text-align: center;
+    color     : #F5F5F5;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pading1
+{
+    padding-top: 37px;
+}
+.pading2
+{
+    padding-top: 30px;
+}
+.topmenu
+{
+    margin-top: 69px;
+}

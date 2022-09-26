@@ -36,12 +36,19 @@
     transform: translate(-50%, -50%);
 }
 
-.filling3,
+.filling3 {
+    display        : grid;
+    justify-content: center;
+    justify-items  : center;
+}
+
 .filling4 {
-    margin-left : auto;
-    margin-right: auto;
-    position    : relative;
-    width       : 1205px;
+    margin-left    : auto;
+    margin-right   : auto;
+    position       : relative;
+    width          : 1205px;
+    display        : flex;
+    justify-content: center;
 }
 
 .block {
