@@ -1,0 +1,183 @@
+.filling3 {
+    display        : grid;
+    justify-content: center;
+}
+
+.filling4 {
+    display        : flex;
+    justify-content: center;
+    margin-left    : auto;
+    margin-right   : auto;
+    position       : relative;
+    width          : 1205px;
+}
+
+.block {
+    margin-left: 32px;
+    display    : inline-block;
+}
+
+.block1 {
+    margin-top: 39px;
+}
+
+.block2 {
+    margin-top: 82px;
+}
+
+.block3 {
+    margin-left: 78px;
+}
+
+.plus1 {
+    margin-left: 147px;
+    margin-top : 39px;
+}
+
+.plus2 {
+    margin-left: 223px;
+    margin-top : 77px;
+}
+
+.plus3 {
+    margin-left: 60px;
+    margin-top : 79px;
+}
+
+.plus4 {
+    margin-left: 192px;
+    margin-top : 79px;
+}
+
+.plus5 {
+    margin-left: 233px;
+    margin-top : 79px;
+}
+
+.plus6 {
+    margin-left: 176px;
+    margin-top : 79px;
+}
+
+.maintitle {
+    font-size : 45px;
+    text-align: left;
+}
+
+.title {
+    display       : flex;
+    align-items   : flex-start;
+    flex-direction: column;
+    width         : 600px;
+    margin-left   : auto;
+    margin-right  : auto;
+}
+
+.service {
+    margin-left: 10px;
+}
+
+.brands {
+    margin-top      : 266px;
+    background-color: black;
+    display         : flex;
+    align-items     : center;
+    justify-content : space-evenly;
+    margin-right    : 0rem;
+
+
+    left   : 0;
+    right  : 0;
+    z-index: 100;
+}
+
+.servicesofdun {
+    display        : flex;
+    justify-content: center;
+
+}
+
+.pocentru {
+    text-align: center;
+}
+
+.gridservices {
+    display              : grid;
+    justify-content      : center;
+    grid-template-columns: repeat(3, 300px);
+    grid-template-rows   : 450px;
+    grid-column-gap      : 70px;
+    margin-top           : 50px;
+}
+
+.minititleservices {
+
+    position       : relative;
+    display        : flex;
+    justify-content: center;
+
+
+}
+
+.consultation {
+    display        : flex;
+    justify-content: center;
+    margin-top     : 68px;
+}
+
+.gridbrands {
+    margin-top           : 57px;
+    display              : grid;
+    align-items          : center;
+    justify-content      : center;
+    grid-template-columns: repeat(6, 250px);
+    grid-template-rows   : repeat(4, 150px);
+    text-align           : center;
+
+
+}
+
+.inline {
+    display        : flex;
+    justify-content: center;
+    padding-top    : 35px;
+}
+
+.brandsheet {
+    background-color: black;
+    flex-direction  : column;
+    display         : flex;
+    margin-top      : 96px;
+}
+
+.inline1 {
+    display        : flex;
+    justify-content: center;
+    margin-top     : 50px;
+
+}
+
+.gridnumber {
+    margin-top           : 70px;
+    display              : grid;
+    align-items          : center;
+    justify-items        : center;
+    justify-content      : center;
+    grid-template-columns: repeat(4, 350px);
+    grid-template-rows   : repeat(2, 150px);
+
+}
+
+.minititlenumber {
+
+    position       : relative;
+    display        : flex;
+    justify-content: center;
+    align-items    : center;
+
+
+}
+
+.number1 {
+    position: absolute;
+}

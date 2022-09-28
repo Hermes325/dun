@@ -1,0 +1,94 @@
+.midle {
+    margin-top : 24px;
+    font-family: 'Poppins';
+    font-style : normal;
+    font-weight: 300;
+    font-size  : 15px;
+    line-height: 138.5%;
+    color      : #DBDBDB;
+}
+
+.top {
+    font-family: 'Poppins';
+    font-style : normal;
+    font-weight: 800;
+    font-size  : 15px;
+    line-height: 138.5%;
+    color      : #FFFFFF;
+}
+
+p.basicfont {
+    font-family: 'Poppins';
+    font-style : normal;
+    font-weight: 300;
+    font-size  : 15px;
+    line-height: 138.5%;
+    color      : #FFFFFF;
+}
+
+.zfonts {
+    margin-top    : 100px;
+    font-family   : 'Poppins';
+    font-style    : normal;
+    font-weight   : 700;
+    font-size     : 30px;
+    line-height   : 112.5%;
+    text-align    : center;
+    letter-spacing: 0.05em;
+    color         : #DBDBDB;
+}
+
+.bonusfonts {
+    font-family   : 'Poppins';
+    font-style    : normal;
+    font-weight   : 400;
+    font-size     : 36px;
+    line-height   : 112.5%;
+    letter-spacing: 0.05em;
+    color         : #F1F1F1;
+}
+
+.servicefonts {
+    font-family: 'Poppins';
+    font-style : normal;
+    font-weight: 700;
+    font-size  : 30px;
+    line-height: 112.5%;
+    /* or 34px */
+
+    text-align    : center;
+    letter-spacing: 0.05em;
+
+    color: #F1F1F1;
+}
+
+.top1
+{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 112.5%;
+/* or 41px */
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FE3B00;
+
+}
+.number
+{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 75px;
+    line-height: 112.5%;
+    /* or 84px */
+    
+    text-align: center;
+    letter-spacing: 0.05em;
+    
+    color: #FE3B00;
+}
+
