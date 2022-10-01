@@ -1,6 +1,11 @@
 .filling3 {
-    display        : grid;
-    justify-content: center;
+    margin-top           : 40px;
+    display              : grid;
+    grid-template-columns: repeat(2, 500px);
+    grid-template-rows   : repeat(4, 70px);
+    grid-column-gap      : 50px;
+    justify-content      : center;
+    align-items          : center;
 }
 
 .filling4 {
@@ -12,54 +17,18 @@
     width          : 1205px;
 }
 
+.spusk {
+    margin-top: 15px;
+}
+
 .block {
-    margin-left: 32px;
-    display    : inline-block;
-}
-
-.block1 {
-    margin-top: 39px;
-}
-
-.block2 {
-    margin-top: 82px;
-}
-
-.block3 {
-    margin-left: 78px;
-}
-
-.plus1 {
-    margin-left: 147px;
-    margin-top : 39px;
-}
-
-.plus2 {
-    margin-left: 223px;
-    margin-top : 77px;
-}
-
-.plus3 {
-    margin-left: 60px;
-    margin-top : 79px;
-}
-
-.plus4 {
-    margin-left: 192px;
-    margin-top : 79px;
-}
-
-.plus5 {
-    margin-left: 233px;
-    margin-top : 79px;
-}
-
-.plus6 {
-    margin-left: 176px;
-    margin-top : 79px;
+    display        : flex;
+    justify-content: space-between;
+    align-items    : center;
 }
 
 .maintitle {
+
     font-size : 45px;
     text-align: left;
 }
@@ -78,7 +47,7 @@
 }
 
 .brands {
-    margin-top      : 266px;
+    margin-top      : 165px;
     background-color: black;
     display         : flex;
     align-items     : center;
@@ -99,6 +68,12 @@
 
 .pocentru {
     text-align: center;
+}
+
+.cen {
+    margin-top     : 70px;
+    display        : flex;
+    justify-content: center;
 }
 
 .gridservices {
@@ -130,11 +105,15 @@
     display              : grid;
     align-items          : center;
     justify-content      : center;
-    grid-template-columns: repeat(6, 250px);
+    grid-template-columns: repeat(6, 240px);
     grid-template-rows   : repeat(4, 150px);
     text-align           : center;
 
 
+}
+
+.link {
+    display: block;
 }
 
 .inline {
@@ -143,6 +122,14 @@
     padding-top    : 35px;
 }
 
+.inline1 {
+    display        : flex;
+    justify-content: center;
+    margin-top     : 50px;
+
+}
+
+
 .brandsheet {
     background-color: black;
     flex-direction  : column;
@@ -150,12 +137,14 @@
     margin-top      : 96px;
 }
 
-.inline1 {
-    display        : flex;
-    justify-content: center;
-    margin-top     : 50px;
-
+.flextitle {
+    display     : flex;
+    align-items : flex-end;
+    width       : 1200px;
+    margin-left : auto;
+    margin-right: auto;
 }
+
 
 .gridnumber {
     margin-top           : 70px;
