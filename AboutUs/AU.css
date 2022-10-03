@@ -2,7 +2,7 @@
     margin-top           : 40px;
     display              : grid;
     grid-template-columns: repeat(2, 500px);
-    grid-template-rows   : repeat(4, 70px);
+    grid-template-rows   : repeat(2, 70px);
     grid-column-gap      : 50px;
     justify-content      : center;
     align-items          : center;
@@ -35,11 +35,20 @@
 
 .title {
     display       : flex;
-    align-items   : flex-start;
+    align-items   : center;
     flex-direction: column;
     width         : 600px;
     margin-left   : auto;
     margin-right  : auto;
+}
+.title1 {
+    display       : flex;
+    align-items   : center;
+    flex-direction: column;
+    width         : 600px;
+    margin-left   : auto;
+    margin-right  : auto;
+    margin-top: 35px;
 }
 
 .service {
@@ -64,6 +73,12 @@
 .pocentru {
     text-align: center;
 }
+.pocentru1 {
+    text-align: center;
+    width: 1050px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .cen {
     margin-top     : 70px;
@@ -76,7 +91,7 @@
     justify-content      : center;
     grid-template-columns: repeat(3, 300px);
     grid-template-rows   : 450px;
-    grid-column-gap      : 170px;
+    grid-column-gap      : 70px;
     margin-top           : 50px;
 }
 
@@ -119,7 +134,7 @@
 
 .inline1 {
     margin-top: 50px;
-    text-align: center;
+   text-align: center;
 
 }
 
@@ -163,7 +178,28 @@
     position: absolute;
 }
 
-input
+
+.top2
 {
-  
+    margin-top: 15px;
 }
+
+.team
+{
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.absolute
+{
+    
+    position: absolute;
+}
+
+.widht
+{
+    width: 1050px ;
+    text-align: center;
+}
+
